@@ -1,6 +1,6 @@
 ## Hi there 👋! I'm Dominique, a software and web developer from Brazil. I am in my final year of computer science graduation.
 
-- 🌱 I’m  current learning Web Development Technologies in Frontend and Backend
+- 🌱 Freelancer
 
 
 ## ⚡My top Tecnologies
