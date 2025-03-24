@@ -1,6 +1,6 @@
 ## Hi there 👋! I'm Dominique, a software and web developer from Brazil. I am in my final year of computer science graduation.
 
-- 🌱 Freelancer
+## 🌱 Freelancer
 
 
 ## ⚡My top Tecnologies
@@ -21,10 +21,5 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Domi-ni&repo=Pomodoro_Project_gui_tkinter)](https://github.com/Domi-ni/Pomodoro_Project_gui_tkinter)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Domi-ni&repo=Cross-the-street-python-version)](https://github.com/Domi-ni/Cross-the-street-python-version)
 
-<hr>
 
-<div>
-<a href="https://github.com/Domi-ni">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domi-ni&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
