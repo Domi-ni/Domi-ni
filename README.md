@@ -1,6 +1,7 @@
 ## Hi there 👋! I'm Dominique, a software and web developer from Brazil. I am in my final year of computer science graduation.
 
-## 🌱 Freelancer
+🔭 Pythom e desenvolvimento web com JavaScript
+💻 Trabalho com freelancer
 
 
 ## ⚡My top Tecnologies
