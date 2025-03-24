@@ -18,8 +18,6 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ## 🚀Here are some of my projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Domi-ni&repo=Pong-with-JS)](https://github.com/Domi-ni/Pong-with-JS)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Domi-ni&repo=freeway-with-javascript)](https://github.com/Domi-ni/freeway-with-javascript)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Domi-ni&repo=Pomodoro_Project_gui_tkinter)](https://github.com/Domi-ni/Pomodoro_Project_gui_tkinter)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Domi-ni&repo=Cross-the-street-python-version)](https://github.com/Domi-ni/Cross-the-street-python-version)
 
